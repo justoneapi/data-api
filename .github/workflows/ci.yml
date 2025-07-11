@@ -20,7 +20,7 @@ jobs:
 
       - name: Auto green
         run: |
-          git config --local user.email "changshashuxing@gmail.com"
+          git config --local user.email "justoneapi@gmail.com"
           git config --local user.name "${{ github.actor }}"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase

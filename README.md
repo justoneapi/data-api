@@ -7,7 +7,7 @@
 
 可通过以下方式获取数据接口文档，提供免费测试。充值金额没有有效期，用完为止。
 
-- **邮箱**: justoneapi@gmail.com
+- **邮箱**: support@justoneapi.com
 - **Telegram**: [t.me/justoneapi](https://t.me/justoneapi)
 
 如有任何问题，欢迎联系我们。

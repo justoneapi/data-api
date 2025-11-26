@@ -1,16 +1,14 @@
 # justoneapi<img src="./logo_Symbol only.png" alt="Scrapyman Logo" width="40" height="40"/> —— 值得信赖的数据合作伙伴 
->[官网](https://justoneapi.com) | [接口文档](https://doc.justoneapi.com) | [SDK](https://github.com/justoneapi/justoneapi-python) 
+>[官网](https://justoneapi.com?source=github&detail=justoneapi/data-api) | [接口文档](https://doc.justoneapi.com?source=github&detail=justoneapi/data-api)
 
 我们是一家专业的数据服务提供商，提供标准的 HTTP 接口服务，并可根据您的需求定制化数据服务。
 
 ## 联系方式
 
-可通过以下方式获取数据接口文档，提供免费测试。充值金额没有有效期，用完为止。
-
-- **邮箱**: support@justoneapi.com
-- **Telegram**: [t.me/justoneapi](https://t.me/justoneapi)
-
 如有任何问题，欢迎联系我们。
+
+[Contact](https://justoneapi.com/contact?source=github&detail=justoneapi/data-api)
+
 
 ## 服务概览
 

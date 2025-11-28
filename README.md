@@ -7,7 +7,7 @@
 
 如有任何问题，欢迎联系我们。
 
-[Contact](https://justoneapi.com/contact?source=github&detail=justoneapi/data-api)
+[Contact](https://justoneapi.com/contact)
 
 
 ## 服务概览

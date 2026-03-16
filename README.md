@@ -7,7 +7,7 @@
 
 如有任何问题，欢迎联系我们。
 
-[Contact](https://justoneapi.com/contact)
+[Contact](https://justoneapi.com/zh/contact)
 
 
 ## 服务概览

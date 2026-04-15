@@ -1,5 +1,5 @@
 # justoneapi<img src="./logo_Symbol only.png" alt="Scrapyman Logo" width="40" height="40"/> —— 值得信赖的数据合作伙伴 
->[官网](https://justoneapi.com?source=github&detail=justoneapi/data-api) | [接口文档](https://docs.justoneapi.com/zh?source=github&detail=justoneapi/data-api) | [Python SDK](https://github.com/justoneapi/justoneapi-python)
+>[官网](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme) | [接口文档](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme) | [Python SDK](https://github.com/justoneapi/justoneapi-python)
 
 我们是一家专业的数据服务提供商，提供标准的 HTTP 接口服务，并可根据您的需求定制化数据服务。
 
@@ -7,7 +7,7 @@
 
 如有任何问题，欢迎联系我们。
 
-[Contact](https://justoneapi.com/zh/contact)
+[联系我们](https://justoneapi.com/zh/contact?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme)
 
 
 ## 服务概览

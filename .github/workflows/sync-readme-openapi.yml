@@ -1,0 +1,49 @@
+name: Sync README OpenAPI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-readme-openapi
+  cancel-in-progress: false
+
+jobs:
+  sync-readme-openapi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update README API list
+        env:
+          README_LANG: zh
+          OPENAPI_BASIC_AUTH_USER: ${{ secrets.OPENAPI_BASIC_AUTH_USER }}
+          OPENAPI_BASIC_AUTH_PASS: ${{ secrets.OPENAPI_BASIC_AUTH_PASS }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
+        run: node scripts/update-readme-api-list.mjs
+
+      - name: Commit and push updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md i18n-cache.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: sync README API list"
+          git pull --rebase origin main
+          git push origin HEAD:main

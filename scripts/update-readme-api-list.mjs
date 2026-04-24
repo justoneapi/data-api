@@ -11,6 +11,8 @@ const CACHE_FILE = process.env.I18N_CACHE_FILE || "i18n-cache.json";
 const GLOSSARY_FILE = process.env.GLOSSARY_FILE || "glossary.json";
 const DEEPSEEK_BASE_URL = process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com";
 const DEEPSEEK_MODEL = process.env.DEEPSEEK_MODEL || "deepseek-chat";
+const DOCS_BASE_URL = (process.env.DOCS_BASE_URL || "https://docs.justoneapi.com").replace(/\/+$/, "");
+const UTM_CONTENT = process.env.UTM_CONTENT || "repo_readme_api_list";
 const API_LIST_START = "<!-- API_LIST_START -->";
 const API_LIST_END = "<!-- API_LIST_END -->";
 
@@ -92,6 +94,17 @@ function inferReadmeLanguage(readme) {
   return readme.includes("## 服务概览") ? "zh" : "en";
 }
 
+function slugify(value) {
+  if (!value) return "";
+  return String(value)
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/[^\u4e00-\u9fa5a-z0-9-]+/g, "")
+    .replace(/-+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 function getNumericOrder(value) {
   if (value === undefined || value === null || value === "") return null;
   const numeric = Number.parseInt(String(value), 10);
@@ -127,7 +140,7 @@ function extractPathVersion(pathKey) {
 }
 
 function getOperationVersion(op, pathKey) {
-  const candidates = [op["x-api-version"], op["x-version"], op.apiVersion, op.api_version, op.version];
+  const candidates = [op["x-version"], op["x-api-version"], op.apiVersion, op.api_version, op.version];
   for (const candidate of candidates) {
     const version = normalizeVersion(candidate);
     if (version) return version;
@@ -156,6 +169,10 @@ function getOperationBaseTitle(op, pathKey) {
   return stripTrailingVersion(op.summary || op.operationId || pathKey) || pathKey;
 }
 
+function getOperationDisplayTitleSource(baseTitle, version) {
+  return version ? `${baseTitle} (${version})` : baseTitle;
+}
+
 function collectApiGroups(api) {
   const groups = new Map();
   let operationIndex = 0;
@@ -168,17 +185,27 @@ function collectApiGroups(api) {
       if (!groups.has(tagName)) {
         groups.set(tagName, {
           tagName,
+          tagSlugSource: tagName,
+          tagSlug: slugify(tagName),
           index: groups.size,
           operations: [],
         });
       }
 
+      const baseTitle = getOperationBaseTitle(op, pathKey);
+      const version = getOperationVersion(op, pathKey);
+      const operationSlugSource = op.deprecated
+        ? `${getOperationDisplayTitleSource(baseTitle, version)} Deprecated`
+        : getOperationDisplayTitleSource(baseTitle, version);
+
       groups.get(tagName).operations.push({
         pathKey,
         method: method.toUpperCase(),
-        baseTitle: getOperationBaseTitle(op, pathKey),
-        version: getOperationVersion(op, pathKey),
+        baseTitle,
+        version,
         deprecated: Boolean(op.deprecated),
+        operationSlugSource,
+        opSlug: slugify(operationSlugSource),
         order: getNumericOrder(op["x-order"]),
         index: operationIndex,
       });
@@ -355,13 +382,45 @@ function buildDisplayTitle(operation, language, translator) {
   return language === "zh" ? `${titleWithVersion}（已弃用）` : `${titleWithVersion} (Deprecated)`;
 }
 
+function getUtmCampaign(language) {
+  return language === "zh" ? "justoneapi_data_api" : "justoneapi_crawl_data_api";
+}
+
+function buildDocsUrl(language, tagSlug, opSlug, deprecated) {
+  const locale = language === "zh" ? "zh" : "en";
+  const query = new URLSearchParams({
+    utm_source: "github.com",
+    utm_medium: "referral",
+    utm_campaign: getUtmCampaign(language),
+    utm_content: UTM_CONTENT,
+  });
+  const fragment = deprecated ? "#deprecated" : "";
+
+  return `${DOCS_BASE_URL}/${locale}/api/${tagSlug}/${opSlug}?${query.toString()}${fragment}`;
+}
+
+function addDocsUrls(groups, language) {
+  return groups.map((group) => ({
+    ...group,
+    operations: group.operations.map((operation) => ({
+      ...operation,
+      docsUrl: buildDocsUrl(language, group.tagSlug, operation.opSlug, operation.deprecated),
+    })),
+  }));
+}
+
+function escapeMarkdownLinkText(text) {
+  return String(text).replace(/([\\[\]])/g, "\\$1");
+}
+
 function renderApiList(groups, language, translator) {
   return groups
     .map((group) => {
       const tagName = translator.translate(group.tagName);
       const lines = [`### ${tagName}`, ""];
       for (const operation of group.operations) {
-        lines.push(`- ${buildDisplayTitle(operation, language, translator)}`);
+        const displayTitle = buildDisplayTitle(operation, language, translator);
+        lines.push(`- [${escapeMarkdownLinkText(displayTitle)}](${operation.docsUrl})`);
       }
       return lines.join("\n");
     })
@@ -432,7 +491,8 @@ async function main() {
       : [];
   await translator.ensureTranslations(textsToTranslate);
 
-  const apiList = renderApiList(groups, language, translator);
+  const linkedGroups = addDocsUrls(groups, language);
+  const apiList = renderApiList(linkedGroups, language, translator);
   const section = buildReadmeSection(apiList, language);
   const updatedReadme = replaceApiListSection(readme, section, language);
 

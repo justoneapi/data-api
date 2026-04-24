@@ -386,14 +386,23 @@ function getUtmCampaign(language) {
   return language === "zh" ? "justoneapi_data_api" : "justoneapi_crawl_data_api";
 }
 
-function buildDocsUrl(language, tagSlug, opSlug, deprecated) {
-  const locale = language === "zh" ? "zh" : "en";
-  const query = new URLSearchParams({
+function buildUtmQuery(language) {
+  return new URLSearchParams({
     utm_source: "github.com",
     utm_medium: "referral",
     utm_campaign: getUtmCampaign(language),
     utm_content: UTM_CONTENT,
   });
+}
+
+function buildDocsHomeUrl(language) {
+  const locale = language === "zh" ? "zh" : "en";
+  return `${DOCS_BASE_URL}/${locale}/?${buildUtmQuery(language).toString()}`;
+}
+
+function buildDocsUrl(language, tagSlug, opSlug, deprecated) {
+  const locale = language === "zh" ? "zh" : "en";
+  const query = buildUtmQuery(language);
   const fragment = deprecated ? "#deprecated" : "";
 
   return `${DOCS_BASE_URL}/${locale}/api/${tagSlug}/${opSlug}?${query.toString()}${fragment}`;
@@ -429,9 +438,10 @@ function renderApiList(groups, language, translator) {
 
 function buildReadmeSection(apiList, language) {
   if (language === "zh") {
+    const docsHomeUrl = buildDocsHomeUrl(language);
     return `## 服务概览
 
-以下接口列表由 OpenAPI 自动生成，展示当前公开 API 的分类、接口名称和版本。完整请求参数和响应说明请以在线接口文档为准。
+完整请求参数和响应说明请以[在线接口文档](${docsHomeUrl})为准。
 
 ${API_LIST_START}
 
@@ -441,9 +451,10 @@ ${API_LIST_END}
 `;
   }
 
+  const docsHomeUrl = buildDocsHomeUrl(language);
   return `## Service Overview
 
-The API list below is generated from OpenAPI and shows the current public API categories, endpoint names, and versions. See the online API documentation for full request and response details.
+The API list below is generated from OpenAPI and shows the current public API categories, endpoint names, and versions. See the [online API documentation](${docsHomeUrl}) for full request and response details.
 
 ${API_LIST_START}
 

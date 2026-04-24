@@ -7,11 +7,11 @@
 
 文档中心支持查看接口健康状态、版本化 API 路径、请求参数以及各平台的使用提示。
 
-![Just One API 文档中心界面](docs/images/readme/api-docs-zh.jpg)
+[![Just One API 文档中心界面](docs/images/readme/api-docs-zh.jpg)](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_docs_image)
 
 控制台提供 API 令牌管理、余额展示、接口调用记录、调用量趋势和消费金额分析。
 
-![Just One API 控制台概览](docs/images/readme/console-zh.jpg)
+[![Just One API 控制台概览](docs/images/readme/console-zh.jpg)](https://dashboard.justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_dashboard_image)
 
 ## 联系方式
 

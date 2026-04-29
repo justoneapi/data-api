@@ -240,6 +240,8 @@
 - [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/instagram/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [Reels 搜索 (V1)](https://docs.justoneapi.com/zh/api/instagram/reels-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [话题标签帖子搜索 (V1)](https://docs.justoneapi.com/zh/api/instagram/hashtag-posts-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [帖子评论列表 (V1)](https://docs.justoneapi.com/zh/api/instagram/post-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [评论回复列表 (V1)](https://docs.justoneapi.com/zh/api/instagram/comment-reply-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### YouTube
 

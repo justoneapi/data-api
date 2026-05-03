@@ -102,6 +102,7 @@
 ### 抖音电商
 
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/item-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评论 (V1)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/item-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 抖音巨量星图

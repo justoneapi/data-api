@@ -46,6 +46,7 @@
 
 ### 小红书
 
+- [热搜 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/hot-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-profile-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V4)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-profile-v4-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [用户发布笔记 (V2)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-published-notes-v2-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)

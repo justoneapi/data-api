@@ -217,10 +217,10 @@
 
 ### 微信公众号
 
-- [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [文章互动指标 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-engagement-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [文章评论 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [关键词搜索 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/keyword-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户发布帖子 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/user-published-posts-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [文章互动指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-engagement-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [文章评论 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-comments-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [关键词搜索 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/keyword-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [文章详情 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 豆瓣电影

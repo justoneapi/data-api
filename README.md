@@ -62,6 +62,7 @@
 - [评论回复 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/comment-replies-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记搜索 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记搜索 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [笔记搜索 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [话题笔记列表 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/topic-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户搜索 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [分享链接解析 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/share-link-resolution-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

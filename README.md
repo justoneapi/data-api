@@ -344,4 +344,8 @@
 - [渲染的HTML内容 (V1)](https://docs.justoneapi.com/zh/api/web-page/rendered-html-content-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [Markdown内容 (V1)](https://docs.justoneapi.com/zh/api/web-page/markdown-content-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
+### LLM
+
+- [豆包回答 (V1)](https://docs.justoneapi.com/zh/api/llm/doubao-answer-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
 <!-- API_LIST_END -->

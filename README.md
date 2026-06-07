@@ -203,11 +203,7 @@
 - [账号原创文章数 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-original-article-count-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [账号主体信息 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-principal-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [账号基本信息 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-basic-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [账号统计 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-stats-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [账号排名 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-rank-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章链接转换 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-link-conversion-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [搜狗链接转换 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/sougou-link-conversion-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [搜狗搜索链接转换 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/sougou-search-link-conversion-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 微博
 

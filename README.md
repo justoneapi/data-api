@@ -315,6 +315,7 @@
 
 ### 亚马逊
 
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/amazon/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/amazon/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品热门评论 (V1)](https://docs.justoneapi.com/zh/api/amazon/product-top-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [热销商品 (V1)](https://docs.justoneapi.com/zh/api/amazon/best-sellers-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

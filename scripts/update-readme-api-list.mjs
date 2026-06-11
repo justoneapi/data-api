@@ -308,7 +308,7 @@ Rules:
 2. Do not translate technical identifiers, parameter names, enum values, or API paths.
 3. Keep product names such as TikTok, YouTube, Reddit, Amazon, Facebook, Twitter, IMDb, Temu, Lazada, SHEIN, and Shopee unchanged unless the glossary says otherwise.
 4. Follow the glossary exactly when provided.
-5. Return JSON in this exact shape: {"translations":["..."]}.
+5. Return JSON in this exact shape: {"translations":["..."],"raw":"..."}.
 
 Glossary:
 ${JSON.stringify(this.terminology, null, 2)}
@@ -419,7 +419,7 @@ function addDocsUrls(groups, language) {
 }
 
 function escapeMarkdownLinkText(text) {
-  return String(text).replace(/([\\[\]])/g, "\\$1");
+  return String(text).replace(/([\\\[\]])/g, "\\$1");
 }
 
 function renderApiList(groups, language, translator) {
@@ -465,24 +465,16 @@ ${API_LIST_END}
 }
 
 function replaceApiListSection(readme, section, language) {
-  const headingRegex =
-    language === "zh" ? /^##\s+服务概览\s*$/m : /^##\s+Service\s+Overv(?:iew)?\s*$/m;
+  const headingRegex = language === "zh" ? /^##\s+服务概览\s*$/m : /^##\s+Service\s+Overv(?:iew)?\s*$/m;
   const headingMatch = readme.match(headingRegex);
 
   if (headingMatch && headingMatch.index !== undefined) {
     const start = headingMatch.index;
-    const afterHeading = start + headingMatch[0].length;
-    const rest = readme.slice(afterHeading);
-    const nextHeadingOffset = rest.search(/\n##\s+/);
-    const end = nextHeadingOffset === -1 ? readme.length : afterHeading + nextHeadingOffset;
-    return `${readme.slice(0, start)}${section}${readme.slice(end)}`;
-  }
-
-  const startMarkerIndex = readme.indexOf(API_LIST_START);
-  const endMarkerIndex = readme.indexOf(API_LIST_END);
-  if (startMarkerIndex !== -1 && endMarkerIndex !== -1 && endMarkerIndex > startMarkerIndex) {
-    const end = endMarkerIndex + API_LIST_END.length;
-    return `${readme.slice(0, startMarkerIndex)}${section}${readme.slice(end)}`;
+    const endMarkerIndex = readme.indexOf(API_LIST_END, start);
+    if (endMarkerIndex !== -1) {
+      const end = endMarkerIndex + API_LIST_END.length;
+      return `${readme.slice(0, start)}${section}${readme.slice(end)}`;
+    }
   }
 
   throw new Error(`Could not find the README API list section in ${README_FILE}.`);
@@ -512,8 +504,13 @@ async function main() {
     return;
   }
 
-  fs.writeFileSync(readmePath, updatedReadme);
-  console.log(`Updated ${README_FILE} with ${groups.length} API group(s).`);
+  try {
+    fs.writeFileSync(readmePath, updatedReadme);
+    console.log(`Updated ${README_FILE} with ${groups.length} API group(s).`);
+  } catch (error) {
+    console.error(`Failed to update ${README_FILE}: ${error.message}`);
+    process.exit(1);
+  }
 }
 
 main().catch((error) => {

@@ -251,6 +251,10 @@
 - [用户关系统计 (V1)](https://docs.justoneapi.com/zh/api/bilibili/user-relation-stats-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频字幕 (V2)](https://docs.justoneapi.com/zh/api/bilibili/video-captions-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
+### 得物（毒）
+
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/dewu-poizon/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
 ### 京东
 
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

@@ -150,6 +150,7 @@
 - [作者商业传播信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/author-commerce-spread-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [作者侧基础信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/author-side-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [作者商业种草基础信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/author-commerce-seeding-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [作者合同基本信息](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/author-contract-base-info?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者资料 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [受众分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/audience-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [粉丝分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
@@ -263,6 +264,11 @@
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评论 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V1)](https://docs.justoneapi.com/zh/api/jdcom/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
+### 闲鱼
+
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/xianyu-goofish/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V1)](https://docs.justoneapi.com/zh/api/xianyu-goofish/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 1688
 

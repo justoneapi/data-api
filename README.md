@@ -318,8 +318,10 @@
 
 ### YouTube
 
+- [通用搜索 (V1)](https://docs.justoneapi.com/zh/api/youtube/general-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频详情 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [频道视频 (V1)](https://docs.justoneapi.com/zh/api/youtube/channel-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [视频字幕 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-captions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频评论列表 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频子评论列表 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-sub-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
@@ -359,6 +361,7 @@
 
 ### Twitter
 
+- [搜索时间线 (V1)](https://docs.justoneapi.com/zh/api/twitter/search-timeline-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V1)](https://docs.justoneapi.com/zh/api/twitter/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/twitter/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 

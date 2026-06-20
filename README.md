@@ -368,9 +368,9 @@
 
 ### 贝壳
 
-- [二手房详情 (V1)](https://docs.justoneapi.com/zh/api/beike/resale-housing-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [二手房列表 (V1)](https://docs.justoneapi.com/zh/api/beike/resale-housing-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [小区列表 (V1)](https://docs.justoneapi.com/zh/api/beike/community-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [二手房详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/beike/resale-housing-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [二手房列表 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/beike/resale-housing-list-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [小区列表 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/beike/community-list-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### IMDb
 

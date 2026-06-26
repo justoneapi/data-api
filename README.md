@@ -352,6 +352,15 @@
 - [回答列表 (V1)](https://docs.justoneapi.com/zh/api/zhihu/answer-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [关键词搜索 (V1)](https://docs.justoneapi.com/zh/api/zhihu/keyword-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [专栏文章列表 (V1)](https://docs.justoneapi.com/zh/api/zhihu/column-article-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户信息 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-followees-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注者 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-followers-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户文章 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户收录文章 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-included-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注专栏 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-columns-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注问题 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注收藏夹 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-collections-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户关注话题 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-topics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 亚马逊
 

@@ -267,6 +267,7 @@
 - [商品详情 (V3)](https://docs.justoneapi.com/zh/api/jdcom/product-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品价格 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-price-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品搜索 (V2)](https://docs.justoneapi.com/zh/api/jdcom/product-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评论 (V1)](https://docs.justoneapi.com/zh/api/jdcom/product-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评论 (V2)](https://docs.justoneapi.com/zh/api/jdcom/product-comments-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V1)](https://docs.justoneapi.com/zh/api/jdcom/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

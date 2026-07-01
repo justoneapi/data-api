@@ -63,7 +63,7 @@
 - [笔记详情 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V5)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V7)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v7-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [笔记详情 (V7)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v7?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记评论 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记评论 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记评论 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -177,15 +177,6 @@
 - [带货种草基础信息 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/commerce-seeding-base-info-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [视频详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/video-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
-### QQ互选创作者市场
-
-- [视频号创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [公众号创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [视频号创作者详情 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-creator-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [视频号最新视频 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-recent-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [公众号创作者详情 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-creator-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [公众号文章列表 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-article-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-
 ### 快手
 
 - [视频搜索 (V2)](https://docs.justoneapi.com/zh/api/kuaishou/video-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -239,6 +230,15 @@
 - [视频指标 (V1)](https://docs.justoneapi.com/zh/api/wechat-channels/video-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频评论 (V1)](https://docs.justoneapi.com/zh/api/wechat-channels/video-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频子评论 (V1)](https://docs.justoneapi.com/zh/api/wechat-channels/video-sub-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
+### QQ互选创作者市场
+
+- [视频号创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [公众号创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [视频号创作者详情 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-creator-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [视频号最新视频 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/video-account-recent-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [公众号创作者详情 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-creator-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [公众号文章列表 (V1)](https://docs.justoneapi.com/zh/api/qq-huxuan-creator-marketplace/official-account-article-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 微博
 

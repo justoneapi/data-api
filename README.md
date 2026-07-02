@@ -152,6 +152,7 @@
 - [内容关键词分析 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/content-keyword-analysis-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者名片 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-business-card-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者带货传播信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-commerce-spread-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [创作者主页视频 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-homepage-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者侧基础信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-side-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [直播统计 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/live-statistics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [直播观看分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/live-watch-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

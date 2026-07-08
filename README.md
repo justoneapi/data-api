@@ -41,9 +41,9 @@
 - [商品问答 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V2)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [店铺商品列表 (V3)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺商品列表 (V3)（已弃用）](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v3-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [店铺商品列表 (V4)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [商品销量 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-sales-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品销量 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-sales-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 小红书
@@ -64,7 +64,7 @@
 - [笔记详情 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V5)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V6)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v6?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V7)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v7?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [笔记详情 (V7)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v7-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [笔记评论 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记评论 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记评论 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -144,7 +144,7 @@
 - [推荐视频 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/recommended-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [粉丝分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者搜索轻量版 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-light-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [创作者搜索轻量版 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-light-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品报告趋势 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/item-report-trends-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频详情 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品报告分析 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/item-report-analysis-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -270,7 +270,7 @@
 
 ### 得物（毒）
 
-- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/dewu-poizon/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品搜索 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/dewu-poizon/product-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### 京东
 
@@ -317,7 +317,7 @@
 
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/tiktok-shop/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/tiktok-shop/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [商品详情 (V2)](https://docs.justoneapi.com/zh/api/tiktok-shop/product-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V2)（已弃用）](https://docs.justoneapi.com/zh/api/tiktok-shop/product-details-v2-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### 优酷
 

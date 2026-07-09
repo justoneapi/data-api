@@ -77,6 +77,7 @@
 
 ### 小红书蒲公英
 
+- [创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者资料 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [数据摘要 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/data-summary-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [粉丝增长历史 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/follower-growth-history-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -88,7 +89,6 @@
 - [粉丝分布 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [成本效益分析 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/cost-effectiveness-analysis-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/note-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者核心指标 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-core-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [内容方块笔记 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/content-square-notes-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者资料 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
@@ -126,6 +126,7 @@
 
 ### 抖音巨量星图
 
+- [创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者资料 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者链接结构 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-link-structure-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者可见性状态 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-visibility-status-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -143,7 +144,6 @@
 - [受众触点分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/audience-touchpoint-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [推荐视频 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/recommended-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [粉丝分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者搜索轻量版 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-light-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品报告趋势 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/item-report-trends-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频详情 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

@@ -354,6 +354,7 @@
 
 - [文章详情 (V1)](https://docs.justoneapi.com/zh/api/toutiao/article-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V1)](https://docs.justoneapi.com/zh/api/toutiao/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户ID (V1)](https://docs.justoneapi.com/zh/api/toutiao/user-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [App关键词搜索 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/toutiao/app-keyword-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [网页关键词搜索 (V2)](https://docs.justoneapi.com/zh/api/toutiao/web-keyword-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 

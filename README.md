@@ -41,7 +41,6 @@
 - [商品问答 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺商品列表 (V2)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [店铺商品列表 (V3)（已弃用）](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v3-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [店铺商品列表 (V4)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/shop-product-list-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品销量 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-sales-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -49,28 +48,15 @@
 ### 小红书
 
 - [热搜 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/hot-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记搜索 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记搜索 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记搜索 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记搜索 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-search-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户搜索 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [用户发布笔记 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-published-notes-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [用户发布笔记 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-published-notes-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [用户发布笔记 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-published-notes-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户发布笔记 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-published-notes-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V5)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [笔记详情 (V6)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v6?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记详情 (V7)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-details-v7-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [笔记评论 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记评论 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [笔记评论 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/note-comments-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [评论回复 (V2)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/comment-replies-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-profile-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [用户资料 (V4)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/user-profile-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [关键词建议 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/keyword-suggestions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [话题笔记列表 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/topic-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [分享链接解析 (V3)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/share-link-resolution-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -91,17 +77,8 @@
 - [笔记详情 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/note-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者核心指标 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-core-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [内容方块笔记 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/content-square-notes-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者资料 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [笔记表现指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/note-performance-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [粉丝分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/follower-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [粉丝摘要 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/follower-summary-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [粉丝增长历史 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/follower-growth-history-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [创作者笔记列表 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者笔记列表 Pro (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-note-list-pro-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [数据摘要 (V2)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/data-summary-v2-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [成本效益分析 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/cost-effectiveness-analysis-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [笔记详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/note-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [创作者核心指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/xiaohongshu-creator-marketplace-pugongying/creator-core-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### 抖音
 
@@ -118,7 +95,6 @@
 
 ### 抖音电商
 
-- [商品详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-e-commerce/item-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品详情 (V2)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/item-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品SKU信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/product-sku-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-e-commerce/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -145,7 +121,6 @@
 - [受众触点分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/audience-touchpoint-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [推荐视频 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/recommended-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [粉丝分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者搜索轻量版 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-search-light-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [商品报告趋势 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/item-report-trends-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频详情 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品报告分析 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/item-report-analysis-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -161,25 +136,6 @@
 - [直播观看分布 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/live-watch-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [带货种草基础信息 (V1)](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/commerce-seeding-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [创作者合约基础信息](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-contract-base-info?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [创作者资料 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [受众分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/audience-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [粉丝分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [营销指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/marketing-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [传播指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/spread-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [转化分析 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/conversion-analysis-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [展示商品 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/showcase-items-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [创作者链接指标 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-link-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [转化资源 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/conversion-resources-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [创作者链接结构 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-link-structure-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [受众触点分布 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/audience-touchpoint-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [性价比分析 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/cost-performance-analysis-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [推荐视频 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/recommended-videos-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [粉丝增长趋势 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/follower-growth-trend-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [评论关键词分析 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/comment-keyword-analysis-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [内容关键词分析 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/content-keyword-analysis-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [创作者带货传播信息 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/creator-commerce-spread-info-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [带货种草基础信息 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/commerce-seeding-base-info-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
-- [视频详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/douyin-creator-marketplace-xingtu/video-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### 快手
 
@@ -319,7 +275,6 @@
 
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/tiktok-shop/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/tiktok-shop/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [商品详情 (V2)（已弃用）](https://docs.justoneapi.com/zh/api/tiktok-shop/product-details-v2-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 
 ### 优酷
 
@@ -357,7 +312,6 @@
 - [文章详情 (V1)](https://docs.justoneapi.com/zh/api/toutiao/article-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V1)](https://docs.justoneapi.com/zh/api/toutiao/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户ID (V1)](https://docs.justoneapi.com/zh/api/toutiao/user-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [App关键词搜索 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/toutiao/app-keyword-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [网页关键词搜索 (V2)](https://docs.justoneapi.com/zh/api/toutiao/web-keyword-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 知乎
@@ -418,7 +372,6 @@
 - [详情 (V1)](https://docs.justoneapi.com/zh/api/imdb/details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [票房摘要 (V1)](https://docs.justoneapi.com/zh/api/imdb/box-office-summary-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [推荐 (V1)](https://docs.justoneapi.com/zh/api/imdb/recommendations-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [关键词搜索 (V1)](https://docs.justoneapi.com/zh/api/imdb/keyword-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [流媒体精选 (V1)](https://docs.justoneapi.com/zh/api/imdb/streaming-picks-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [分类新闻 (V1)](https://docs.justoneapi.com/zh/api/imdb/news-by-category-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [榜单排名 (V1)](https://docs.justoneapi.com/zh/api/imdb/chart-rankings-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

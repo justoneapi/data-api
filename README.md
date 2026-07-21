@@ -356,6 +356,15 @@
 - [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/twitter/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [帖子评论 (V1)](https://docs.justoneapi.com/zh/api/twitter/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
+### 领英
+
+- [人员搜索 (V1)](https://docs.justoneapi.com/zh/api/linkedin/people-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户资料 (V1)](https://docs.justoneapi.com/zh/api/linkedin/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [公司员工 (V1)](https://docs.justoneapi.com/zh/api/linkedin/company-employees-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/linkedin/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [帖子反应 (V1)](https://docs.justoneapi.com/zh/api/linkedin/post-reactions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [帖子评论 (V1)](https://docs.justoneapi.com/zh/api/linkedin/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
 ### 贝壳
 
 - [二手房详情 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/beike/resale-housing-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)

@@ -331,6 +331,8 @@
 - [用户关注问题 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户关注收藏夹 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-collections-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户关注话题 (V1)](https://docs.justoneapi.com/zh/api/zhihu/user-follow-topics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [回答评论 (V1)](https://docs.justoneapi.com/zh/api/zhihu/answer-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [评论回复 (V1)](https://docs.justoneapi.com/zh/api/zhihu/comment-replies-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 亚马逊
 
@@ -345,12 +347,14 @@
 - [作品搜索 (V1)](https://docs.justoneapi.com/zh/api/facebook/post-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [获取资料ID (V1)](https://docs.justoneapi.com/zh/api/facebook/get-profile-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [获取资料帖子 (V1)](https://docs.justoneapi.com/zh/api/facebook/get-profile-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [帖子评论 (V1)](https://docs.justoneapi.com/zh/api/facebook/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### Twitter
 
 - [搜索时间线 (V1)](https://docs.justoneapi.com/zh/api/twitter/search-timeline-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户资料 (V1)](https://docs.justoneapi.com/zh/api/twitter/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/twitter/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [帖子评论 (V1)](https://docs.justoneapi.com/zh/api/twitter/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 贝壳
 

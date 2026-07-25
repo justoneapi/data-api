@@ -287,6 +287,7 @@
 ### Instagram
 
 - [用户资料 (V1)](https://docs.justoneapi.com/zh/api/instagram/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [用户资料 (V2)](https://docs.justoneapi.com/zh/api/instagram/user-profile-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [帖子详情 (V1)](https://docs.justoneapi.com/zh/api/instagram/post-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户发布帖子 (V1)](https://docs.justoneapi.com/zh/api/instagram/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [Reels 搜索 (V1)](https://docs.justoneapi.com/zh/api/instagram/reels-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

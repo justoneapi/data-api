@@ -34,6 +34,7 @@
 
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V2)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V3)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V4)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V5)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V9)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v9?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

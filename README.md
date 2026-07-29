@@ -37,6 +37,7 @@
 - [商品详情 (V3)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V4)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V5)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V6)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v6?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品详情 (V9)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-details-v9?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评价 (V3)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-reviews-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品问答 (V1)](https://docs.justoneapi.com/zh/api/taobao-and-tmall/product-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -62,6 +63,10 @@
 - [关键词建议 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/keyword-suggestions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [话题笔记列表 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/topic-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [分享链接解析 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-rednote/share-link-resolution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
+### 小红书电商
+
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/xiaohongshu-e-commerce-rednote/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 小红书蒲公英
 

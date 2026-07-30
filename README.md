@@ -202,8 +202,8 @@
 
 ### 微信公众号
 
-- [账号今日文章 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-today-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [账号历史文章 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-historical-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [账号今日文章 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-today-articles-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
+- [账号历史文章 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-historical-articles-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [账号历史文章 (V2)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/account-historical-articles-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章指标 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章指标 (V2)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-metrics-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

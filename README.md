@@ -403,6 +403,7 @@
 - [获取资料ID (V1)](https://docs.justoneapi.com/zh/api/facebook/get-profile-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [获取资料帖子 (V1)](https://docs.justoneapi.com/zh/api/facebook/get-profile-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [帖子评论 (V1)](https://docs.justoneapi.com/zh/api/facebook/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [评论回复 (V1)](https://docs.justoneapi.com/zh/api/facebook/comment-replies-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### Twitter
 

@@ -355,6 +355,7 @@
 - [视频详情 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [频道视频 (V1)](https://docs.justoneapi.com/zh/api/youtube/channel-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频字幕 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-captions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [频道短视频 (V1)](https://docs.justoneapi.com/zh/api/youtube/channel-shorts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频评论列表 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频子评论列表 (V1)](https://docs.justoneapi.com/zh/api/youtube/video-sub-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 

@@ -216,7 +216,7 @@
 - [文章详情 (V5)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章评论 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章评论回复 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-comment-replies-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [热门文章搜索 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/hot-article-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [热门文章搜索 (V1)（已弃用）](https://docs.justoneapi.com/zh/api/wechat-official-accounts/hot-article-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list#deprecated)
 - [文章搜索 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [文章搜索 (V2)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/article-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [小程序搜索 (V1)](https://docs.justoneapi.com/zh/api/wechat-official-accounts/mini-program-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
@@ -306,6 +306,10 @@
 
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/1688/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/1688/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
+### Temu
+
+- [首页商品信息流 (V1)](https://docs.justoneapi.com/zh/api/temu/homepage-product-feed-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
 ### 豆瓣电影
 

@@ -311,6 +311,29 @@
 
 - [首页商品信息流 (V1)](https://docs.justoneapi.com/zh/api/temu/homepage-product-feed-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
+### Shopee
+
+- [商品详情 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺资料与评分摘要 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-profile-and-rating-summary-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V2)](https://docs.justoneapi.com/zh/api/shopee/item-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺商品列表 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-item-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品SKU矩阵 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-sku-matrix-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺基本资料 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-basic-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品SKU型号 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-sku-models-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺详情 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [丰富店铺评价 (V1)](https://docs.justoneapi.com/zh/api/shopee/rich-shop-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品展示快照 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-display-snapshot-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺评价 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品评价 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [搜索预填 (V1)](https://docs.justoneapi.com/zh/api/shopee/search-prefills-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [搜索筛选配置 (V1)](https://docs.justoneapi.com/zh/api/shopee/search-filter-configuration-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [店铺分类 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-categories-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品评价模型分布 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-review-model-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品评价标签 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-review-tags-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [搜索分类筛选 (V1)](https://docs.justoneapi.com/zh/api/shopee/search-category-facets-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品分期与金额 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-installments-and-amounts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
 ### 豆瓣电影
 
 - [影评 (V1)](https://docs.justoneapi.com/zh/api/douban-movie/movie-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

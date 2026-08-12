@@ -326,8 +326,6 @@
 - [商品展示快照 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-display-snapshot-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺评价 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评价 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [搜索预填 (V1)](https://docs.justoneapi.com/zh/api/shopee/search-prefills-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
-- [搜索筛选配置 (V1)](https://docs.justoneapi.com/zh/api/shopee/search-filter-configuration-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [店铺分类 (V1)](https://docs.justoneapi.com/zh/api/shopee/shop-categories-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评价模型分布 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-review-model-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品评价标签 (V1)](https://docs.justoneapi.com/zh/api/shopee/item-review-tags-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

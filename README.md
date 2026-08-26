@@ -116,6 +116,7 @@
 
 - [视频搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/video-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [视频搜索 (V4)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/video-search-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [图片帖子搜索 (V1)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/image-post-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [热搜 (V1)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/hot-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户搜索 (V2)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [用户发布视频 (V1)](https://docs.justoneapi.com/zh/api/douyin-tiktok-china/user-published-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)

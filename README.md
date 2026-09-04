@@ -311,6 +311,11 @@
 - [商品详情 (V1)](https://docs.justoneapi.com/zh/api/1688/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 - [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/1688/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
 
+### AliExpress
+
+- [商品搜索 (V1)](https://docs.justoneapi.com/zh/api/aliexpress/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+- [商品详情 (V1)](https://docs.justoneapi.com/zh/api/aliexpress/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
+
 ### Temu
 
 - [首页商品信息流 (V1)](https://docs.justoneapi.com/zh/api/temu/homepage-product-feed-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_data_api&utm_content=repo_readme_api_list)
